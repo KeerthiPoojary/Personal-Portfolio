@@ -3,10 +3,10 @@
 // Project data
 const projectsData = [
     {
-        title: "E-commerce Website",
-        desc: "A fully responsive online store with product filtering and cart functionality using HTML, CSS, JS.",
-        img: "https://via.placeholder.com/400x200?text=E-commerce+Project",
-        link: "#"
+        title: "Personal Portfolio Website",
+        desc: "A fully responsive personal portfolio website showcasing skills, projects, and resume.",
+        img: "https://via.placeholder.com/400x200?text=Portfolio+Project",
+        link: "https://github.com/KeerthiPoojary/Personal-Portfolio"  // ← Updated GitHub link
     },
     {
         title: "Weather App",
